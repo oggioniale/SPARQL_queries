@@ -1,0 +1,6 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX geosparql: <http://www.opengis.net/ont/geosparql#>
+SELECT * WHERE {
+  <https://deims.org/8e24d4f8-d6f6-4463-83e9-73cac2fd3f38> ?o ?s .
+}

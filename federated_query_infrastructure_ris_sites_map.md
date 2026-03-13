@@ -104,3 +104,5 @@ WHERE {
 }
 ORDER BY ?source ?wktLabel
 ```
+
+<img width="1206" height="804" alt="Screenshot 2026-03-13 at 15 11 47" src="https://github.com/user-attachments/assets/13f005be-5bef-402c-befa-cd5ce29990dc" />
